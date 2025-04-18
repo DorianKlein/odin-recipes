@@ -1,15 +1,15 @@
 # odin-recipes
 
 ## What the current project is
-This object about my review that html and git basics
+This object is a review of basic HTML and Git concepts
 
 ## What skill I will use
- - html title and text style
-  - `h1 ~ h6` is title 1 to 6
-  - `strong` is bold text
-  - `em` is italic text
-  - `p` is paragraph
+ - HTML Basics
+  - `h1 ~ h6`: Heading elements,from largest(h1) to smallest(h6)
+  - `strong`: Defines **bold** text
+  - `em`: Defines *italic* text
+  - `p`: Defines paragraph
  - git command
-  - `git add .` is stage change
-  - `git commit` is commit your modification in your local repo
-  - `git push` is that push your loacl commit to your remote repo
+  - `git add .`: Stages all changes in the current directory
+  - `git commit`: Commits your staged changes to the local repository
+  - `git push`: Pushes your local commits to the remote repository
